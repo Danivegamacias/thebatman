@@ -15,7 +15,7 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 10px 0;
+    padding: 10px;
     position: fixed;
     width: 30%;
     bottom: 0;
@@ -52,10 +52,14 @@ table th {
     justify-content: center;
     text-align: center;
     color: white;
-    font-family: 'Exo 2', sans-serif;
     font-size: 2em;
 }
+
 main {
     max-width: 30%;
     margin: 0 auto;
+
+}
+.textorojo {
+    color: red;
 }
